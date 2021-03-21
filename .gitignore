@@ -38,6 +38,7 @@ config.rst
 *.iml
 /.project
 /.pydevproject
+./models/*
 
 package-lock.json
 geckodriver.log

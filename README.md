@@ -31,13 +31,8 @@ Well, it trains model to recognize images, generates report about architecture, 
 
    *Samples images to be classified*
 
-   <img width="400" src="Images/matrix.png"> 
-*confusion matrix*
-
-   <img width="500" src="Images/graph.png"> 
-
-*Epochs vs loss graph*
-
+   <img width="300" src="Images/matrix.png"> `
+   <img width="400" src="Images/graph.png"> 
 </div>
 
 ## Requirements

@@ -21,8 +21,7 @@ The main purpose of this project is to provide beginners with a proper introduct
 
 ## What does it do?
 Well, it trains model to recognize images, generates report about architecture, accuracy, plots confusion matrix, graphs and save wrongly identified images to your hdd.
-<center>
-<div>
+<div align="center">
    <img width="28" src="Images/wrong_idx0_pred7_actual2.png"> 
    <img width="28" src="Images/wrong_idx5_pred5_actual8.png"> 
    <img width="28" src="Images/wrong_idx9_pred3_actual5.png"> 
@@ -40,8 +39,6 @@ Well, it trains model to recognize images, generates report about architecture, 
 *Epochs vs loss graph*
 
 <div>
-</center>
-
 
 ## Requirements
 In order to run this notebooks you need to have conda installed. If it happens so that you already have it just run:

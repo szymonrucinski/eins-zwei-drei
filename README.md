@@ -25,20 +25,20 @@ The main purpose of this project is to provide beginners with a proper introduct
 Well, it trains model to recognize images, generates report about architecture, accuracy, plots confusion matrix, graphs and save wrongly identified images to your hdd.
 
 <center>
-   <img width="28" src="images/wrong_idx0_pred7_actual2.png"> 
-   <img width="28" src="images/wrong_idx5_pred5_actual8.png"> 
-   <img width="28" src="images/wrong_idx9_pred3_actual5.png"> 
-   <img width="28" src="images/wrong_idx12_pred1_actual7.png"> 
-   <img width="28" src="images/wrong_idx15_pred9_actual4.png"> 
-   <img width="28" src="images/wrong_idx19_pred5_actual8.png"> 
+   <img width="28" src="Images/wrong_idx0_pred7_actual2.png"> 
+   <img width="28" src="Images/wrong_idx5_pred5_actual8.png"> 
+   <img width="28" src="Images/wrong_idx9_pred3_actual5.png"> 
+   <img width="28" src="Images/wrong_idx12_pred1_actual7.png"> 
+   <img width="28" src="Images/wrong_idx15_pred9_actual4.png"> 
+   <img width="28" src="Images/wrong_idx19_pred5_actual8.png"> 
 
    *Samples images to be classified*
 
-   <img width="400" src="images/matrix.png"> 
+   <img width="400" src="Images/matrix.png"> 
 
 *confusion matrix*
 
-   <img width="500" src="images/graph.png"> 
+   <img width="500" src="Images/graph.png"> 
 
 *Epochs vs loss graph*
 

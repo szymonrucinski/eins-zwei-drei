@@ -38,7 +38,7 @@ Well, it trains model to recognize images, generates report about architecture, 
 
 *Epochs vs loss graph*
 
-<div>
+</div>
 
 ## Requirements
 In order to run this notebooks you need to have conda installed. If it happens so that you already have it just run:

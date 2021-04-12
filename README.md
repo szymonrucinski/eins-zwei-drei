@@ -20,7 +20,7 @@ The main purpose of this project is to provide beginners with a proper introduct
 </div>
 
 ## What does it do?
-Well, it trains model to recognize images, generates report about architecture, accuracy, plots confusion matrix, graphs and save wrongly identified images to your hdd.
+Well, it trains model to recognize images, generates report about architecture, accuracy, plots confusion matrix, graphs and saves wrongly identified images to your hdd.
 <div align="center">
    <img width="28" src="Images/wrong_idx0_pred7_actual2.png"> 
    <img width="28" src="Images/wrong_idx5_pred5_actual8.png"> 

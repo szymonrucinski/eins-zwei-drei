@@ -2,8 +2,9 @@
   "name": "eins-zwei-drei",
   "version": "1.0.0",
   "description": "server",
-  "main": "index.html",
+  "main": "./public/index.html",
   "scripts": {
+    "start": "npx serve ./public",
     "test": "test"
   },
   "repository": {

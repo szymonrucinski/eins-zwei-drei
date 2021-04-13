@@ -23,6 +23,6 @@
   "homepage": "https://github.com/szymonrucinski/eins-zwei-drei#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "serve": "^11.3.2"
+    "socket.io": "^4.0.1"
   }
 }

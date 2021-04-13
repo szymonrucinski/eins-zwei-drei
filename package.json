@@ -2,9 +2,9 @@
   "name": "eins-zwei-drei",
   "version": "1.0.0",
   "description": "server",
-  "main": "./public/index.html",
+  "main": "index.js",
   "scripts": {
-    "start": "npx serve ./public",
+    "start": "node index.js",
     "test": "test",
     "postinstall": "npm start"
   },
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/szymonrucinski/eins-zwei-drei#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "serve": "^11.3.2"
   }
 }

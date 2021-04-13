@@ -1,0 +1,22 @@
+{
+  "name": "eins-zwei-drei",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szymonrucinski/eins-zwei-drei.git"
+  },
+  "author": "Szymon Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szymonrucinski/eins-zwei-drei/issues"
+  },
+  "homepage": "https://github.com/szymonrucinski/eins-zwei-drei#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
